@@ -4,7 +4,7 @@
 #
 Name     : vpp
 Version  : 22.02
-Release  : 25
+Release  : 26
 URL      : https://github.com/FDio/vpp/archive/v22.02/vpp-22.02.tar.gz
 Source0  : https://github.com/FDio/vpp/archive/v22.02/vpp-22.02.tar.gz
 Summary  : Vector Packet Processing
